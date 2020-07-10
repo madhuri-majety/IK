@@ -1,0 +1,10 @@
+John is the son of John, second.
+Second son, of John second is William second.
+My ip address is 172.16.20.11. Private ipaddress space is 10.0.0.0 - 10.255.255.255,
+172.16.0.0 - 172.16.31.255 and 192.168.0.0 - -192.168.255.255
+Valid ips are 10.1.1.1, 172.16.24.12 and 192.168.245.1
+My phone number is 408-431-0737 and 408-338-6382
+Invalid ip address in 0.12.11.1  - 0.255.255.255
+Invalid ip address in 2.55.25.511135
+
+

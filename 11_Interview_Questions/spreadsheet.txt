@@ -1,0 +1,9 @@
+Id | First Name | Last Name | Notes   |
+1  | Noah       | Red       | A,A,B,B |
+2  | Liam       | Orange    | A,A,C,D |
+3  | Mason      | Yellow    | A,A,B,B |
+4  | Jacob      | Green     | A,A,C,D |
+5  | William    | Cyan      | A,A,B,B |
+6  | Ethan      | Blue      | A,A,C,D |
+7  | James      | Indigo    | A,A,B,B |
+8  | Alexander  | Violet    | A,A,C,D |

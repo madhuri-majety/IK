@@ -1,0 +1,8 @@
+setup.py
+string_matching/__init__.py
+string_matching/name_matching.py
+string_matching.egg-info/PKG-INFO
+string_matching.egg-info/SOURCES.txt
+string_matching.egg-info/dependency_links.txt
+string_matching.egg-info/requires.txt
+string_matching.egg-info/top_level.txt

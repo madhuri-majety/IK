@@ -1,0 +1,2 @@
+ “hello everyone, ” “this article is based on inverted index, ” “which is hashmap like data structure”.
+ “which is hashmap like data structure”.
